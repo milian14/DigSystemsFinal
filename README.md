@@ -1,7 +1,7 @@
 # DigSystemsFinal
 # Understanding 5G WiFi
 
-**Author:** [Your Name]
+**Author:** [Max Cytron]
 
 ## Summary
 This tutorial explores the concept of 5G WiFi, detailing its technology, benefits, and its impact on internet connectivity. Learn how 5G differs from previous generations and what it means for future wireless communication.
