@@ -1,6 +1,5 @@
-# What is 5G WiFi?
+# 5G vs 4G
 
-Explain what 5G WiFi is, including technical specifications, frequency bands, and how it differs from traditional WiFi and other generations of mobile networks.
+Compare 5G with 4G technologies to highlight improvements and the reasons for transitioning to 5G.
 
 [Back to Home](README.md)
-
